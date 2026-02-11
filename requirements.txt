@@ -1,0 +1,13 @@
+db-sqlite3
+pandas
+dotenv
+langchain-groq
+langchain-community
+langchain
+langgraph
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+matplotlib
+sqlite3
+streamlit
